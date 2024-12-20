@@ -1,0 +1,1 @@
+This repository demonstrates a subtle but common error in Elixir when using Enum.reduce. The issue arises from implicit type handling in the accumulator. The provided code snippet showcases the error, and the solution file provides a corrected version with explicit type handling.
